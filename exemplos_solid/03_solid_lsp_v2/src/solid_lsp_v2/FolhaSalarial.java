@@ -28,5 +28,6 @@ class FolhaSalarial{
         	System.out.println("\n" + funcionario.getNome() + " ----- R$ " + funcionario.calcularSalario());
 
         }
-    } 
+    }
+
 }
